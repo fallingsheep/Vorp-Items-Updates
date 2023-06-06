@@ -1,4 +1,4 @@
-INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `id`, `metadata`, `desc`) VALUES
+INSERT IGNORE INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `id`, `metadata`, `desc`) VALUES
 ('absinthe','Absinthe',10,1,'item_standard',1,1600,'{}','An anise-flavoured spirit derived from several plants, including the flowers and leaves of Artemisia absinthium'),
 ('bacon','Bacon',10,1,'item_standard',1,1601,'{}','Bacon what else do you need to know?'),
 ('beartrap','Beartrap',10,1,'item_standard',1,1602,'{}','A sturdy beartrap used for catching animals or stopping trespassers'),
