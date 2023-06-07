@@ -70,7 +70,7 @@ INSERT IGNORE INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usa
 ('money_coin','Coin',10,1,'item_standard',1,1668,'{}','A simple metal coin'),
 ('money_coinpurse','Coin Purse',10,1,'item_standard',1,1669,'{}','A small coin purse.'),
 ('pearl','Pearl',10,1,'item_standard',1,1670,'{}','A hard, glistening object produced within the soft tissue of a living shelled mollusk.'),
-('planttrimmer','Plant Trimmer',10,1,'item_standard',1,16710,'{}','A set plant trimmers to keep the weeds in check.'),
+('planttrimmer2','Plant Trimmer',10,1,'item_standard',1,16710,'{}','A set plant trimmers to keep the weeds in check.'),
 ('provision_arrowhead_agate','Agate Arrowhead',10,1,'item_standard',1,16720,'{}','A rare arrowhead fashioned from sharp, colorful agate.'),
 ('provision_arrowhead_bone','Bone Arrowhead',10,1,'item_standard',1,1673,'{}','A serrated arrowhead made from animal bone.'),
 ('provision_arrowhead_chipped','Chipped Arrowhead',10,1,'item_standard',1,1674,'{}','A hurriedly made arrowhead made from chiseled flint.'),
