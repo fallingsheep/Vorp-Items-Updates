@@ -20,7 +20,7 @@ you then copy the **img** folder to **resources\[VORP]\[vorp_essentials]\vorp_in
 
 
 ## Store updates
-This add ALL items from the premade files to the stores
+This adds ALL items from the premade files to the stores
 (if you dont have the new items see the 200+ new items update)
 
 - adds 10 new stores
@@ -28,54 +28,54 @@ This add ALL items from the premade files to the stores
 - no weapons,ammo or weapon parts are included (this will be a seperate update)
 - no 'doctor items'are included (this will be a seperate update)
 
-**WARNING!**
+**WARNING!**  
 this adds EVERY ITEM to the stores so you will need to remove what you dont want to buy/sell
 (eg if you dont want handcuffs sold/bought then remove them, best way is to comment them out)
 buy and sell prices are not balanced in any way, 
 the only "balance" is items sell for approx half the buy cost
 
-**NEW STORES**
+**NEW STORES**  
 - Adds 5 new "Trapper" stores there locations are the same as the story/online
 (Saint Denis, Tall Trees, Near Riggs Station, Near Strawberry, Near Elysian Pool)
 - Adds 4 new "Fence"stores there locations are the same as the story/online
 (Saint Denis, ThievesLanding, Rhodes, Emerald Ranch)
 - Adds the Lagras Bait shop
 
-**CATERGORYS**
+**CATERGORYS**  
 Items are split into the following catergorys
-"Fish"
-"Bait"
-"Furniture & Decor"
-"Food"
-"Meat"
-"Drinks"
-"Documents & Books"
-"Horse & Pets"
-"Misc"
-"Materials"
-"Herbs & Plants"
-"Fertilizer"
-"Liquor"
-"Tools"
-"Rare Plants"
-"Seeds"
-"Sweets"
-"Animals & Pelts"
-"Legendary"
-"Moonshine"
-"Valuables"
+- "Fish"
+- "Bait"
+- "Furniture & Decor"
+- "Food"
+- "Meat"
+- "Drinks"
+- "Documents & Books"
+- "Horse & Pets"
+- "Misc"
+- "Materials"
+- "Herbs & Plants"
+- "Fertilizer"
+- "Liquor"
+- "Tools"
+- "Rare Plants"
+- "Seeds"
+- "Sweets"
+- "Animals & Pelts"
+- "Legendary"
+- "Moonshine"
+- "Valuables"
 
 **DEFAULT STORE CATERGORYS**
-Bait stores
+Bait stores  
 "Fish","Bait"
 
-General stores
+General stores  
 "Furniture & Decor","Food","Meat","Drinks","Documents & Books",
 "Horse & Pets","Misc","Materials","Herbs & Plants","Fertilizer",
 "Liquor","Tools","Rare Plants","Seeds","Sweets"
 
-Trappers
+Trappers  
 "Animals & Pelts","Legendary"
 
-Fences
+Fences  
 "Moonshine","Valuables"
